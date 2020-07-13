@@ -1,3 +1,12 @@
+
 this is conflict
 
-Rsolve conflict
+
+changes in conflicts file
+Changes in master
+
+
+this is conflict
+
+
+
