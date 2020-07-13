@@ -1,1 +1,3 @@
 this is conflict
+
+changes in conflicts file
